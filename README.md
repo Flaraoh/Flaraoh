@@ -4,8 +4,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de jogos.
 
-🎮 Este perfil reúne meus projetos pessoais e autorais.
-📚 Exercícios, desafios e trabalhos acadêmicos: [Flaraoh Estudos](https://github.com/flaraoh-estudos).
+- 🎮 Projetos pessoais e autorais estão neste perfil.
+- 📚 Exercícios, desafios e trabalhos acadêmicos estão na [organização Flaraoh Estudos](https://github.com/flaraoh-estudos).
+
 
 ---
 
@@ -13,8 +14,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 I'm a Systems Analysis and Development student interested in game development.
 
-🎮 This profile features my personal projects and original work.
-📚 Coursework, coding challenges, and academic projects: [Flaraoh Estudos](https://github.com/flaraoh-estudos).
+- 🎮 My personal projects and original work are featured here.
+- 📚 Coursework, coding challenges, and academic projects are in the [Flaraoh Estudos organization](https://github.com/flaraoh-estudos).
+
 
 
 
