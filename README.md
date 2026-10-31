@@ -1,4 +1,4 @@
-# Olá, sou Flaraoh 👋
+# Olá, sou Flávio Spinelli (Flaraoh) 👋
 
 Este perfil reúne meus projetos pessoais e autorais.
 
