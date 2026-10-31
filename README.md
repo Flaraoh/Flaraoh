@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, sou Flaraoh 👋
+# Olá, sou Flávio Spinelli (Flaraoh) 👋
 
 Estou cursando Análise e Desenvolvimento de Sistemas
 e estudando desenvolvimento de jogos para computador e smartphones.
