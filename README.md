@@ -5,7 +5,7 @@ Este perfil reúne meus projetos pessoais e autorais.
 📚 Exercícios, desafios e trabalhos acadêmicos estão organizados na [organização Flaraoh Estudos](https://github.com/flaraoh-estudos).
 
 
-<img width="500" height="500" alt="lets_code" src="https://github.com/user-attachments/assets/fa481e70-f24e-4d44-82e5-67d0a81077fc" />
+<img width="150" height="150" alt="lets_code" src="https://github.com/user-attachments/assets/fa481e70-f24e-4d44-82e5-67d0a81077fc" />
 
 
 
