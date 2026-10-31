@@ -1,26 +1,28 @@
-🇧🇷 **Português** | 🇺🇸 **English**
+🇧🇷 Português | 🇺🇸 English
 
-## Olá, sou Flávio Spinelli (Flaraoh) 👋
+## Olá! Sou Flávio Spinelli (Flaraoh) 👋
 
-Este perfil reúne meus projetos pessoais e autorais.
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de jogos.
 
-📚 Exercícios, desafios e trabalhos acadêmicos estão organizados na [organização Flaraoh Estudos](https://github.com/flaraoh-estudos).
+🎮 Este perfil reúne meus projetos pessoais e autorais.
+📚 Exercícios, desafios e trabalhos acadêmicos: [Flaraoh Estudos](https://github.com/flaraoh-estudos).
 
 ---
 
-## Hi, I'm Flávio Spinelli (Flaraoh) 👋
+## Hi! I'm Flávio Spinelli (Flaraoh) 👋
 
-This profile showcases my personal projects and original work.
+I'm a Systems Analysis and Development student interested in game development.
 
-📚 Exercises, coding challenges, and academic projects are organized in the [Flaraoh Estudos organization](https://github.com/flaraoh-estudos).
+🎮 This profile features my personal projects and original work.
+📚 Coursework, coding challenges, and academic projects: [Flaraoh Estudos](https://github.com/flaraoh-estudos).
 
 
 
-<img width="150" height="100" alt="lets_code" src="https://github.com/user-attachments/assets/fa481e70-f24e-4d44-82e5-67d0a81077fc" />
 
 
 
 <!--
+<img width="150" height="100" alt="lets_code" src="https://github.com/user-attachments/assets/fa481e70-f24e-4d44-82e5-67d0a81077fc" />
 ## Hi there 👋
 
 # Olá, sou Flávio Spinelli (Flaraoh) 👋
