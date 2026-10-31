@@ -1,3 +1,14 @@
+# Olá, sou Flaraoh 👋
+
+Este perfil reúne meus projetos pessoais e autorais.
+
+📚 Exercícios, desafios e trabalhos acadêmicos estão organizados na [organização Flaraoh Estudos](https://github.com/flaraoh-estudos).
+
+
+
+
+
+<!--
 ## Hi there 👋
 
 # Olá, sou Flávio Spinelli (Flaraoh) 👋
@@ -22,6 +33,12 @@ e estudando desenvolvimento de jogos para computador e smartphones.
 
 - **Nome do projeto:** IA utilizada para apoiar [planejamento/revisão/etc.].
 - **Nome de outro projeto:** desenvolvido sem uso de IA.
+
+-->
+
+
+
+
 
 <!--
 **Flaraoh/Flaraoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
